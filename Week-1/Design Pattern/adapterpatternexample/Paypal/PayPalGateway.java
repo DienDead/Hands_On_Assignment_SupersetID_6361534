@@ -1,4 +1,4 @@
-package adpaterpatternexample.Paypal;
+package adapterpatternexample.Paypal;
 
 public class PayPalGateway {
     public void sendPayment(double amount) {

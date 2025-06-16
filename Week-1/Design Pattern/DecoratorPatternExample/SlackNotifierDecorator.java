@@ -1,4 +1,4 @@
-package decoratorpatternexample;
+package DecoratorPatternExample;
 
 // Concrete Decorator: adds Slack notifications
 public class SlackNotifierDecorator extends NotifierDecorator {

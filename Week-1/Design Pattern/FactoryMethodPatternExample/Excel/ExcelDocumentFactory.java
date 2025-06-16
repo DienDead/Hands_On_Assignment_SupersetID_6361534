@@ -1,7 +1,7 @@
-package factorymethodpatternexample.Excel;
+package FactoryMethodPatternExample.Excel;
 
-import factorymethodpatternexample.Document;
-import factorymethodpatternexample.DocumentFactory;
+import FactoryMethodPatternExample.Document;
+import FactoryMethodPatternExample.DocumentFactory;
 
 // Factory for Excel Documents
 public class ExcelDocumentFactory extends DocumentFactory {

@@ -1,4 +1,4 @@
-package decoratorpatternexample;
+package DecoratorPatternExample;
 
 // Concrete Decorator: adds SMS notifications
 public class SMSNotifierDecorator extends NotifierDecorator {

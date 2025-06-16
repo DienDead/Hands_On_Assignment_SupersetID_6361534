@@ -1,4 +1,4 @@
-package decoratorpatternexample;
+package DecoratorPatternExample;
 
 // Concrete Component: sends Email notifications
 public class EmailNotifier implements Notifier {

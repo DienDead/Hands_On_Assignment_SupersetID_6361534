@@ -1,6 +1,6 @@
-package adpaterpatternexample.Stripe;
+package adapterpatternexample.Stripe;
 
-import adpaterpatternexample.PaymentProcessor;
+import adapterpatternexample.PaymentProcessor;
 
 // Adapter for Stripe
 public class StripeAdapter implements PaymentProcessor {

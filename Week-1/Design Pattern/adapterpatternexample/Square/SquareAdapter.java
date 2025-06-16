@@ -1,6 +1,6 @@
-package adpaterpatternexample.Square;
+package adapterpatternexample.Square;
 
-import adpaterpatternexample.PaymentProcessor;
+import adapterpatternexample.PaymentProcessor;
 
 // Adapter for Square
 public class SquareAdapter implements PaymentProcessor {

@@ -1,7 +1,7 @@
-package factorymethodpatternexample.Pdf;
+package FactoryMethodPatternExample.Pdf;
 
-import factorymethodpatternexample.Document;
-import factorymethodpatternexample.DocumentFactory;
+import FactoryMethodPatternExample.Document;
+import FactoryMethodPatternExample.DocumentFactory;
 
 // Factory for PDF Documents
 public class PdfDocumentFactory extends DocumentFactory {

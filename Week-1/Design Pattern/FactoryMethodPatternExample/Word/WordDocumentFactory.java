@@ -1,7 +1,7 @@
-package factorymethodpatternexample.Word;
+package FactoryMethodPatternExample.Word;
 
-import factorymethodpatternexample.Document;
-import factorymethodpatternexample.DocumentFactory;
+import FactoryMethodPatternExample.Document;
+import FactoryMethodPatternExample.DocumentFactory;
 
 // Factory for Word Documents
 public class WordDocumentFactory extends DocumentFactory {

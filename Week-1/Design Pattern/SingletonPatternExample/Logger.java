@@ -1,4 +1,4 @@
-package singletonpatternexample;
+package SingletonPatternExample;
 
 public class Logger {
 

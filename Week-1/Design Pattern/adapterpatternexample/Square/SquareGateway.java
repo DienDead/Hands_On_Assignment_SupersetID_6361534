@@ -1,4 +1,4 @@
-package adpaterpatternexample.Square;
+package adapterpatternexample.Square;
 
 public class SquareGateway {
     public void executePayment(double amount) {

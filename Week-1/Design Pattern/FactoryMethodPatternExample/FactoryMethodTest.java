@@ -1,8 +1,8 @@
-package factorymethodpatternexample;
+package FactoryMethodPatternExample;
 
-import factorymethodpatternexample.Excel.ExcelDocumentFactory;
-import factorymethodpatternexample.Pdf.PdfDocumentFactory;
-import factorymethodpatternexample.Word.WordDocumentFactory;
+import FactoryMethodPatternExample.Excel.ExcelDocumentFactory;
+import FactoryMethodPatternExample.Pdf.PdfDocumentFactory;
+import FactoryMethodPatternExample.Word.WordDocumentFactory;
 
 public class FactoryMethodTest {
     public static void main(String[] args) {

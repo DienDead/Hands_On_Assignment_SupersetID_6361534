@@ -1,4 +1,4 @@
-package decoratorpatternexample;
+package DecoratorPatternExample;
 
 // Abstract Decorator
 public abstract class NotifierDecorator implements Notifier {

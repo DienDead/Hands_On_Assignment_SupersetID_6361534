@@ -1,4 +1,4 @@
-package factorymethodpatternexample;
+package FactoryMethodPatternExample;
 
 // Document interface
 public interface Document {

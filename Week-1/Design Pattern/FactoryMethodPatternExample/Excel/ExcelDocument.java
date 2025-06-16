@@ -1,6 +1,6 @@
-package factorymethodpatternexample.Excel;
+package FactoryMethodPatternExample.Excel;
 
-import factorymethodpatternexample.Document;
+import FactoryMethodPatternExample.Document;
 
 // Concrete Excel Document
 public class ExcelDocument implements Document {

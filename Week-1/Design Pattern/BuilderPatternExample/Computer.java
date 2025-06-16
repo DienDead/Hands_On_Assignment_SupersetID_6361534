@@ -1,4 +1,4 @@
-package builderpatternexample;
+package BuilderPatternExample;
 
 public class Computer {
 

@@ -1,4 +1,4 @@
-package proxypatternexample;
+package ProxyPatternExample;
 
 // Proxy: Adds lazy initialization and caching
 public class ProxyImage implements Image {

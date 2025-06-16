@@ -1,4 +1,4 @@
-package adpaterpatternexample.Stripe;
+package adapterpatternexample.Stripe;
 
 public class StripeGateway {
     public void makePayment(double amount) {

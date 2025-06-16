@@ -1,4 +1,4 @@
-package proxypatternexample;
+package ProxyPatternExample;
 
 // Real Subject: Loads a big image from a remote server
 public class RealImage implements Image {

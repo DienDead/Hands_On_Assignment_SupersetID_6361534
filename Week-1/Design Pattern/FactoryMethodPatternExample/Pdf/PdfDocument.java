@@ -1,6 +1,6 @@
-package factorymethodpatternexample.Pdf;
+package FactoryMethodPatternExample.Pdf;
 
-import factorymethodpatternexample.Document;
+import FactoryMethodPatternExample.Document;
 
 // Concrete PDF Document
 public class PdfDocument implements Document {

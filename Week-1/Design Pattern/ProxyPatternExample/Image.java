@@ -1,4 +1,4 @@
-package proxypatternexample;
+package ProxyPatternExample;
 
 // Subject Interface
 public interface Image {

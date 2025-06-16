@@ -1,6 +1,6 @@
-package factorymethodpatternexample.Word;
+package FactoryMethodPatternExample.Word;
 
-import factorymethodpatternexample.Document;
+import FactoryMethodPatternExample.Document;
 
 // Concrete Word Document
 public class WordDocument implements Document {

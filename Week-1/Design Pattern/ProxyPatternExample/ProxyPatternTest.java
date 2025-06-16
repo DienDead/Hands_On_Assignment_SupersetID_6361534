@@ -1,4 +1,4 @@
-package proxypatternexample;
+package ProxyPatternExample;
 
 public class ProxyPatternTest {
     public static void main(String[] args) throws InterruptedException {

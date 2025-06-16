@@ -1,11 +1,11 @@
-package adpaterpatternexample;
+package adapterpatternexample;
 
-import adpaterpatternexample.Paypal.PayPalAdapter;
-import adpaterpatternexample.Paypal.PayPalGateway;
-import adpaterpatternexample.Square.SquareAdapter;
-import adpaterpatternexample.Square.SquareGateway;
-import adpaterpatternexample.Stripe.StripeAdapter;
-import adpaterpatternexample.Stripe.StripeGateway;
+import adapterpatternexample.Paypal.PayPalAdapter;
+import adapterpatternexample.Paypal.PayPalGateway;
+import adapterpatternexample.Square.SquareAdapter;
+import adapterpatternexample.Square.SquareGateway;
+import adapterpatternexample.Stripe.StripeAdapter;
+import adapterpatternexample.Stripe.StripeGateway;
 
 public class AdapterPatternTest {
     public static void main(String[] args) {

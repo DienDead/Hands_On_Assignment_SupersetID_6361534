@@ -1,4 +1,4 @@
-package factorymethodpatternexample;
+package FactoryMethodPatternExample;
 
 // Abstract Factory
 public abstract class DocumentFactory {

@@ -1,6 +1,6 @@
-package adpaterpatternexample.Paypal;
+package adapterpatternexample.Paypal;
 
-import adpaterpatternexample.PaymentProcessor;
+import adapterpatternexample.PaymentProcessor;
 
 // Adapter for PayPal
 public class PayPalAdapter implements PaymentProcessor {
