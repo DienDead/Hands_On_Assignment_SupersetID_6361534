@@ -1701,11 +1701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\NUnit&Moq\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+      "projectUniqueName": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\NUnit\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
       "projectName": "CalcLibrary",
-      "projectPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\NUnit&Moq\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+      "projectPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\NUnit\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
       "packagesPath": "C:\\Users\\anike\\.nuget\\packages\\",
-      "outputPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\NUnit&Moq\\CalcLibrary\\CalcLibrary\\obj\\",
+      "outputPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\NUnit\\CalcLibrary\\CalcLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

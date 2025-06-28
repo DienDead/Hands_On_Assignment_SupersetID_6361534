@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+3o9n6WAjBo=",
+  "dgSpecHash": "8vPrgzuXc6c=",
   "success": true,
-  "projectFilePath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\NUnit&Moq\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+  "projectFilePath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\NUnit\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anike\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\anike\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
