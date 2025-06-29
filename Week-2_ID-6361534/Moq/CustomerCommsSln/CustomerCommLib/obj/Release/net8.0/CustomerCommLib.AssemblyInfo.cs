@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomerCommLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b20d8e1920d262bc2c18e58cc010f566f09fd21a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomerCommLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomerCommLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

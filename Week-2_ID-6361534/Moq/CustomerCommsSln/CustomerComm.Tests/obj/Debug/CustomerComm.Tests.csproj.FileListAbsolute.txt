@@ -1,4 +1,0 @@
-C:\Users\anike\source\repos\CustomerComms\CustomerComm.Tests\obj\Debug\CustomerComm.Tests.csproj.AssemblyReference.cache
-C:\Users\anike\source\repos\CustomerComms\CustomerComm.Tests\obj\Debug\CustomerComm.Tests.csproj.CoreCompileInputs.cache
-C:\Users\anike\source\repos\CustomerCommsSln\CustomerComm.Tests\obj\Debug\CustomerComm.Tests.csproj.AssemblyReference.cache
-C:\Users\anike\source\repos\CustomerCommsSln\CustomerComm.Tests\obj\Debug\CustomerComm.Tests.csproj.CoreCompileInputs.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerCommLib\\CustomerCommLib.csproj": {}
+    "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\Moq\\CustomerCommsSln\\CustomerCommLib\\CustomerCommLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerCommLib\\CustomerCommLib.csproj": {
+    "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\Moq\\CustomerCommsSln\\CustomerCommLib\\CustomerCommLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectUniqueName": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\Moq\\CustomerCommsSln\\CustomerCommLib\\CustomerCommLib.csproj",
         "projectName": "CustomerCommLib",
-        "projectPath": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\Moq\\CustomerCommsSln\\CustomerCommLib\\CustomerCommLib.csproj",
         "packagesPath": "C:\\Users\\anike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerCommLib\\obj\\",
+        "outputPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\Moq\\CustomerCommsSln\\CustomerCommLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
             "Moq": {
               "target": "Package",
               "version": "[4.20.72, )"

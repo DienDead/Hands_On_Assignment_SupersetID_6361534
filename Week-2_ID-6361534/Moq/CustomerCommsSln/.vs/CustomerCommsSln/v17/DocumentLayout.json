@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\",
+  "WorkspaceRootPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\Moq\\CustomerCommsSln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09600587-63A1-489C-9917-A864079C5EB6}|CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\anike\\source\\repos\\customercommssln\\customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09600587-63A1-489C-9917-A864079C5EB6}|CustomerComm.Tests\\CustomerComm.Tests.csproj|solutionrelative:customercomm.tests\\customercommtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92D07B9-15C0-757D-8F11-3FA73ABFC267}|CustomerCommLib\\CustomerCommLib.csproj|c:\\users\\anike\\source\\repos\\customercommssln\\customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92D07B9-15C0-757D-8F11-3FA73ABFC267}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\customercomm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09600587-63A1-489C-9917-A864079C5EB6}|CustomerComm.Tests\\CustomerComm.Tests.csproj|c:\\users\\anike\\source\\repos\\customercommssln\\customercomm.tests\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09600587-63A1-489C-9917-A864079C5EB6}|CustomerComm.Tests\\CustomerComm.Tests.csproj|solutionrelative:customercomm.tests\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B92D07B9-15C0-757D-8F11-3FA73ABFC267}|CustomerCommLib\\CustomerCommLib.csproj|c:\\users\\anike\\source\\repos\\customercommssln\\customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B92D07B9-15C0-757D-8F11-3FA73ABFC267}|CustomerCommLib\\CustomerCommLib.csproj|solutionrelative:customercommlib\\mailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD7C6D64-E04B-4710-B723-20B0E39E69BC}|CustomerComm.Tests\\CustomerCommTests.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-2_id-6361534\\moq\\customercommssln\\customercomm.tests\\customercommtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7C6D64-E04B-4710-B723-20B0E39E69BC}|CustomerComm.Tests\\CustomerCommTests.csproj|solutionrelative:customercomm.tests\\customercommtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerComm.Tests\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "CustomerComm.Tests\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerComm.Tests\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "CustomerComm.Tests\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T19:46:12.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerCommTests.cs",
-              "DocumentMoniker": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerComm.Tests\\CustomerCommTests.cs",
-              "RelativeDocumentMoniker": "CustomerComm.Tests\\CustomerCommTests.cs",
-              "ToolTip": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerComm.Tests\\CustomerCommTests.cs",
-              "RelativeToolTip": "CustomerComm.Tests\\CustomerCommTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Title": "CustomerCommTest.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\Moq\\CustomerCommsSln\\CustomerComm.Tests\\CustomerCommTest.cs",
+              "RelativeDocumentMoniker": "CustomerComm.Tests\\CustomerCommTest.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-2_ID-6361534\\Moq\\CustomerCommsSln\\CustomerComm.Tests\\CustomerCommTest.cs",
+              "RelativeToolTip": "CustomerComm.Tests\\CustomerCommTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T19:45:07.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MailSender.cs",
-              "DocumentMoniker": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerCommLib\\MailSender.cs",
-              "RelativeDocumentMoniker": "CustomerCommLib\\MailSender.cs",
-              "ToolTip": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerCommLib\\MailSender.cs",
-              "RelativeToolTip": "CustomerCommLib\\MailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T19:43:37.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerComm.cs",
-              "DocumentMoniker": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerCommLib\\CustomerComm.cs",
-              "RelativeDocumentMoniker": "CustomerCommLib\\CustomerComm.cs",
-              "ToolTip": "C:\\Users\\anike\\source\\repos\\CustomerCommsSln\\CustomerCommLib\\CustomerComm.cs",
-              "RelativeToolTip": "CustomerCommLib\\CustomerComm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T19:42:05.069Z",
+              "WhenOpened": "2025-06-29T09:26:52.083Z",
               "EditorCaption": ""
             }
           ]
