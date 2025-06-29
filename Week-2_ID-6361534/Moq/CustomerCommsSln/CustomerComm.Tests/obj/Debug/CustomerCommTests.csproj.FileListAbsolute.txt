@@ -1,2 +1,0 @@
-C:\Users\anike\source\repos\CustomerCommsSln\CustomerComm.Tests\obj\Debug\CustomerCommTests.csproj.AssemblyReference.cache
-C:\Users\anike\source\repos\CustomerCommsSln\CustomerComm.Tests\obj\Debug\CustomerCommTests.csproj.CoreCompileInputs.cache
