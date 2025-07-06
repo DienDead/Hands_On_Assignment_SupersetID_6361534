@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-3_ID-6361534\\Setting Up the Database Context(LAB-2)\\RetailInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1284F6-CC2B-B546-5500-F90E6EC03FDB}|RetailInventory.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-3_id-6361534\\setting up the database context(lab-2)\\retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1284F6-CC2B-B546-5500-F90E6EC03FDB}|RetailInventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1284F6-CC2B-B546-5500-F90E6EC03FDB}|RetailInventory.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-3_id-6361534\\setting up the database context(lab-2)\\retailinventory\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1284F6-CC2B-B546-5500-F90E6EC03FDB}|RetailInventory.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1284F6-CC2B-B546-5500-F90E6EC03FDB}|RetailInventory.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-3_id-6361534\\setting up the database context(lab-2)\\retailinventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1284F6-CC2B-B546-5500-F90E6EC03FDB}|RetailInventory.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1284F6-CC2B-B546-5500-F90E6EC03FDB}|RetailInventory.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-3_id-6361534\\setting up the database context(lab-2)\\retailinventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1284F6-CC2B-B546-5500-F90E6EC03FDB}|RetailInventory.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-3_ID-6361534\\Setting Up the Database Context(LAB-2)\\RetailInventory\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-3_ID-6361534\\Setting Up the Database Context(LAB-2)\\RetailInventory\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:52:23.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-3_ID-6361534\\Setting Up the Database Context(LAB-2)\\RetailInventory\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-3_ID-6361534\\Setting Up the Database Context(LAB-2)\\RetailInventory\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:51:06.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-3_ID-6361534\\Setting Up the Database Context(LAB-2)\\RetailInventory\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-3_ID-6361534\\Setting Up the Database Context(LAB-2)\\RetailInventory\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:50:36.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-3_ID-6361534\\Setting Up the Database Context(LAB-2)\\RetailInventory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-3_ID-6361534\\Setting Up the Database Context(LAB-2)\\RetailInventory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T11:49:31.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
