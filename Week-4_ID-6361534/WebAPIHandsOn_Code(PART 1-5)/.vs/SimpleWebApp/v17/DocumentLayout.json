@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-4_id-6361534\\simplewebapp_code(webapi hands_on-1)\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-4_id-6361534\\simplewebapp_code(webapi hands_on-1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-4_id-6361534\\simplewebapp_code(webapi hands_on-1)\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|solutionrelative:models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-4_id-6361534\\simplewebapp_code(webapi hands_on-1)\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-4_id-6361534\\simplewebapp_code(webapi hands_on-1)\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|solutionrelative:models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-4_id-6361534\\simplewebapp_code(webapi hands_on-1)\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|d:\\digital-nurture-4.0-dotnetfse-main\\hands_on_assignment\\week-4_id-6361534\\simplewebapp_code(webapi hands_on-1)\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53B9923-4B2E-497A-89E8-C99BCA42CED1}|SimpleWebApp.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T20:12:45.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherForecast.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T20:11:46.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Models\\Skill.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Models\\Skill.cs",
+              "RelativeToolTip": "Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T20:11:44.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T20:10:57.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T20:08:37.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T20:00:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Digital-Nurture-4.0-DotNetFSE-main\\Hands_On_Assignment\\Week-4_ID-6361534\\SimpleWebApp_Code(WebAPI Hands_on-1)\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:58:04.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

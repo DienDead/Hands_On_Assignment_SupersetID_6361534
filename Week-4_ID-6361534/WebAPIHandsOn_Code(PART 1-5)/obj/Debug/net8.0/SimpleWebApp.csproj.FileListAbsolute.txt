@@ -1,0 +1,93 @@
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\SimpleWebApp.staticwebassets.endpoints.json
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\SimpleWebApp.exe
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\SimpleWebApp.deps.json
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\SimpleWebApp.runtimeconfig.json
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\SimpleWebApp.dll
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\SimpleWebApp.pdb
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anike\source\repos\SimpleWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.csproj.AssemblyReference.cache
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.AssemblyInfoInputs.cache
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.AssemblyInfo.cs
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.csproj.CoreCompileInputs.cache
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\scopedcss\bundle\SimpleWebApp.styles.css
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWe.9DDE867E.Up2Date
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.dll
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\refint\SimpleWebApp.dll
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.pdb
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.genruntimeconfig.cache
+C:\Users\anike\source\repos\SimpleWebApp\obj\Debug\net8.0\ref\SimpleWebApp.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\appsettings.Development.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\appsettings.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\SimpleWebApp.staticwebassets.endpoints.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\SimpleWebApp.exe
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\SimpleWebApp.deps.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\SimpleWebApp.runtimeconfig.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\SimpleWebApp.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\SimpleWebApp.pdb
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.csproj.AssemblyReference.cache
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.AssemblyInfoInputs.cache
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.AssemblyInfo.cs
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.csproj.CoreCompileInputs.cache
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.sourcelink.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\scopedcss\bundle\SimpleWebApp.styles.css
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\staticwebassets.build.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\staticwebassets.development.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWe.9DDE867E.Up2Date
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\refint\SimpleWebApp.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.pdb
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\SimpleWebApp.genruntimeconfig.cache
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\obj\Debug\net8.0\ref\SimpleWebApp.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Digital-Nurture-4.0-DotNetFSE-main\Hands_On_Assignment\Week-4_ID-6361534\SimpleWebApp_Code(WebAPI Hands_on-1)\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
